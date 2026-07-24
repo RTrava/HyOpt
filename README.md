@@ -92,7 +92,9 @@ You also need a solver like GLPK or Gurobi for Pyomo.
 ## 📚 Citations
 If you use this repository in your work, please cite: 
 
-*...*
+Riccardo Travaglini, Dimitrios Xevgenos, Kenneth Bruninx, Green hydrogen integration in refineries: optimizing multi-stack electrolyzer and steam-methane reformer operation under renewable intermittency and market exposure. 
+
+Available at SSRN: https://ssrn.com/abstract=7135493 or http://dx.doi.org/10.2139/ssrn.7135493
 
 ---
 
