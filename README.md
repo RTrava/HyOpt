@@ -1,4 +1,4 @@
-# HyH2Opt
+# HyOpt
 This repository accompanies the paper ‘Green hydrogen integration in refineries: Optimizing multi-stack electrolyzer and steam-methane reformer operation under renewable intermittency and market exposure’, submitted to Applied Energy in July 2026. It has been developed as part of the WinHy project, funded by the Dutch Research Council (NWO) and Repsol S.A.
 
 ## 📝 Description
